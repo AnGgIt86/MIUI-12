@@ -41,4 +41,4 @@ cp -fpr /vendor/etc/media_profiles_vendor.xml /system/system/etc/media_profiles_
 
 # Ota By NFS Projects
 /sbin/busybox echo "" >> /system/system/build.prop;
-/sbin/busybox echo "import nfs.prop" >> /system/system/build.prop;
+/sbin/busybox echo "import /system/AnGgIt86/nfs.prop" >> /system/system/build.prop;
