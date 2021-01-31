@@ -38,6 +38,9 @@ rm -rf /data/system/package_cache
 
 # Media
 cp -fpr /vendor/etc/media_profiles_vendor.xml /system/system/etc/media_profiles_msm8953_v1.xml
+cp -fpr /vendor/etc/media_profiles_vendor.xml /system/system/etc/media_profiles_msm8940_v1.xml
+cp -fpr /vendor/etc/media_profiles_vendor.xml /system/system/etc/media_profiles_msm8937_v1.xml
+cp -fpr /vendor/etc/media_profiles_vendor.xml /system/system/etc/media_profiles_msm8917_v1.xml
 
 # Ota By NFS Projects
 /sbin/busybox echo "" >> /system/system/build.prop;
