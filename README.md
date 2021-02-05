@@ -6,3 +6,6 @@
 - land
 
 And more device msm8917 - msm8953
+
+# MIUI NFS Projects Release
+https://t.me/NFSProjects
