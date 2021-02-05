@@ -1,0 +1,21 @@
+on early-init
+    mkdir /dsp 0775 system system
+
+on init
+    mkdir /dsp 0775 system system
+
+on fs
+    wait /dev/block/bootdevice/by-name/dsp
+    mount ext4 /dev/block/bootdevice/by-name/dsp  /dsp ro noatime nosuid nodev barrier=1
+    chown system system /dsp
+    chmod 0775 /dsp
+
+on post-fs
+    # We chown/chmod /dsp again so because mount is run as root + defaults
+    chown system system /dsp
+    chmod 0775 /dsp
+    # We restorecon /dsp in case the dsp partition has been reset.
+    restorecon_recursive /dsp
+
+    # create the lost+found directories, so as to enforce our permissions
+    mkdir /dsp/lost+found 0770 root root

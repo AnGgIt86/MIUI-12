@@ -1,0 +1,611 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+
+Name: system/media/audio/notifications/S_Knock.ogg
+SHA1-Digest: KDVEbuToSs26xpkAUtQz2DQfcKg=
+
+Name: system/media/audio/ringtones/S_Spinning_around.ogg
+SHA1-Digest: P2ISi3RVowcK0yeCmrTkZW1upW8=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_applications.png
+SHA1-Digest: HKVfmtKbUEs49d/HpjUMTo9VlO8=
+
+Name: system/media/audio/ringtones/S_Over_the_horizon.ogg
+SHA1-Digest: QBvnIETnLo1FBA9OEyGCPv4+hXI=
+
+Name: system/media/audio/ringtones/Road_Trip.ogg
+SHA1-Digest: ntwXTMUPgfWkKfz4gqCq5yY9YAI=
+
+Name: system/media/audio/ringtones/S_Cuisine.ogg
+SHA1-Digest: Wp0lLQzesBM4QbwL6MbIs2P88Lc=
+
+Name: system/media/audio/ringtones/S_Chime.ogg
+SHA1-Digest: 4JDpwpg9Qe0Xu7WA1Yp8iwU4EYs=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_accessibility.png
+SHA1-Digest: TuTTloSrZweCCuru2iuLnEUpE/4=
+
+Name: system/media/audio/notifications/Pixiedust.ogg
+SHA1-Digest: mUeJMHhOWNcpc6uyyFh9rlYBmko=
+
+Name: system/media/audio/notifications/TaDa.ogg
+SHA1-Digest: aMD5i3h58TiK0kRTMDixaLEEPJg=
+
+Name: MOD/Calculator.apk/res/mipmap-hdpi/ic_launcher_calculator.png
+SHA1-Digest: 7bdZY0F1aONhJ1nNunmp8sjy050=
+
+Name: MOD/Settings.apk/res/mipmap-hdpi/ic_launcher_settings.png
+SHA1-Digest: pKtM9YyN+jyF/+AD32BBOyyL9hU=
+
+Name: system/media/audio/alarms/Rooster.ogg
+SHA1-Digest: /yTNBvC2MDreWK4/ukuICiwgtaM=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_date_time.png
+SHA1-Digest: VB4H2ZtBleREOxnvfe6wCGyYPgQ=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: qZHv8iZmzEDxydFWBlEka3rDqD0=
+
+Name: system/media/audio/alarms/Beep_Beep_Beep.ogg
+SHA1-Digest: vpIdo84AtZru5wabWXthFbusSgw=
+
+Name: system/media/audio/ringtones/Basic_bell.ogg
+SHA1-Digest: FPqp8CDzHub/TRaGSsCpGO9gkog=
+
+Name: MOD/Contacts.apk/res/drawable-hdpi/ic_launcher_smsmms.png
+SHA1-Digest: RU+BmkQvMOfuPUU0d/a03m4ISxk=
+
+Name: system/media/audio/ringtones/S_Mirage_of_you.ogg
+SHA1-Digest: f/FEIY9Xd42V0ef0EJdMMARRVnU=
+
+Name: system/media/audio/notifications/S_Good_News.ogg
+SHA1-Digest: SrKSYl+I2hmw9SIqE3cs3ZdaZqg=
+
+Name: system/media/audio/ui/KeypressReturn.ogg
+SHA1-Digest: AhKAuhFRUYILt2u43zNK389U9hE=
+
+Name: system/media/audio/ui/Dock.ogg
+SHA1-Digest: gEt7PBDOsIdrHSu3Cd0aHVbLi+s=
+
+Name: MOD/Phone.apk/res/drawable-hdpi/ic_launcher_phone.png
+SHA1-Digest: jXStJXthlMUdi9ZI8duB0Itwcok=
+
+Name: MOD/DeskClock.apk/res/mipmap-hdpi/ic_launcher_alarmclock.png
+SHA1-Digest: Cgavpcf6iYYODct5t0r2z6vVISE=
+
+Name: system/lib/libglcanvas.so
+SHA1-Digest: CRZZFOc2JKhO+HRH7GKbHpORH9g=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_wireless.png
+SHA1-Digest: 8Blv4tcyTIWIN1pFLLLntGXB3AI=
+
+Name: system/media/audio/ringtones/S_Faint.ogg
+SHA1-Digest: ADVMA3KzgCtOTUanys3PCgc1Qy0=
+
+Name: MOD/zip
+SHA1-Digest: 5JiX1nFWVeNiB/0IYFvDI//DIQk=
+
+Name: system/media/audio/notifications/Pizzicato.ogg
+SHA1-Digest: 5meIlc4NTpXT86mBC7vP4T9iczA=
+
+Name: system/media/audio/ringtones/S_Illuminator.ogg
+SHA1-Digest: 6OYhx/o95cU5lHRaLIrRcC2jV5w=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_security.png
+SHA1-Digest: CrTNBs1+0nxW+cOFtbJHFxOX33U=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_call.png
+SHA1-Digest: 8Kd1w7b6hrQfva59sAWa5v9adg8=
+
+Name: MOD/Contacts.apk/res/mipmap-hdpi/ic_launcher_contacts.png
+SHA1-Digest: w45GgOGvZdej2yVKB4CRkU/IFuU=
+
+Name: system/media/audio/ringtones/Eridani.ogg
+SHA1-Digest: QJbyS79dFEpDrysB6JlNJaZLOcI=
+
+Name: MOD/CalendarProvider.apk/res/drawable-hdpi/ic_launcher_calendar.
+ png
+SHA1-Digest: VCXiCeixyb4/9jgKxbj2tgphK2k=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_battery.png
+SHA1-Digest: qJRPaDJXkE5k/zy/+4DPHXhoI64=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_sync.png
+SHA1-Digest: OxLqaLjaMKYqa/zM2qipISjF6uo=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_language.png
+SHA1-Digest: XHWmrprPF3eUPDxtZ7F46OunBa4=
+
+Name: system/media/audio/ringtones/S_A_cricket_chirps.ogg
+SHA1-Digest: cgtdA0XvqYBQDroPlaewz2n1NUU=
+
+Name: system/media/audio/notifications/S_Starry_night.ogg
+SHA1-Digest: PN/r9/nd7FkqcMsvgzjQRWQHGe0=
+
+Name: system/media/audio/notifications/S_Cloud.ogg
+SHA1-Digest: rSBOAhrw3EI3a5li3Fh8zc7ThV4=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_storage.png
+SHA1-Digest: fgpdim5RwsFm7IkPdiZHXaUmy7E=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_development.png
+SHA1-Digest: ywhJPcBi+YuNUscoLa/HwIpb6II=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_about.png
+SHA1-Digest: w74/uYuRHgRxJeLBJPfZWtTfIzo=
+
+Name: system/media/audio/ringtones/ANDROMEDA.ogg
+SHA1-Digest: npDwwueaXEoWf9tddUngKZA2wh0=
+
+Name: system/media/audio/alarms/A_toy_watch.ogg
+SHA1-Digest: 8SZ4PCfb86H5MBACKfiT/PLuytM=
+
+Name: system/media/audio/ui/KeypressSpacebar.ogg
+SHA1-Digest: W5H8TwiuPBEoXIq85+hJWUrkOVU=
+
+Name: system/media/audio/ringtones/S_Sniper.ogg
+SHA1-Digest: kSNnL3ojOrUZM6w7Yy+4CH83lVc=
+
+Name: MOD/Contacts.apk/res/mipmap-hdpi/ic_launcher_phone.png
+SHA1-Digest: jXStJXthlMUdi9ZI8duB0Itwcok=
+
+Name: MOD/Camera.apk/res/mipmap-hdpi/ic_launcher_camera.png
+SHA1-Digest: 7CFRhYqBUR7JFzgGqmjrVV4H+FI=
+
+Name: system/media/audio/notifications/S_On_time.ogg
+SHA1-Digest: uvfBD5i1JoTdHS9f2H1e4efLYME=
+
+Name: MOD/Email.apk/res/mipmap-hdpi/ic_launcher_email.png
+SHA1-Digest: QNcNPMf7IXwMvXOlzderVPboC+0=
+
+Name: system/media/audio/notifications/Merope.ogg
+SHA1-Digest: ZQLUz4HdKMxRCSNKCZx6vTlLm28=
+
+Name: system/media/audio/ui/VideoRecord.ogg
+SHA1-Digest: lNxenUZXTJQfFT2OxJHkWx8URbg=
+
+Name: MOD/Calendar.apk/res/mipmap-hdpi/ic_launcher_calendar.png
+SHA1-Digest: VCXiCeixyb4/9jgKxbj2tgphK2k=
+
+Name: system/media/audio/notifications/S_Whistle.ogg
+SHA1-Digest: kQSCEhlHl+dTpecpGr54Ybotq1M=
+
+Name: system/media/audio/ringtones/Lyra.ogg
+SHA1-Digest: 50k1s0GT3+ifJEA3yXmomeNWD68=
+
+Name: MOD/Mms.apk/res/drawable-hdpi/ic_launcher_smsmms.png
+SHA1-Digest: RU+BmkQvMOfuPUU0d/a03m4ISxk=
+
+Name: system/media/audio/notifications/S_Opener.ogg
+SHA1-Digest: wmyOnocfplYU40MXVtINAbc3auE=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_schpwroff.png
+SHA1-Digest: UZU8SN5nO3xIaY+PEoV6ArdEBqg=
+
+Name: system/media/audio/ringtones/PERSEUS.ogg
+SHA1-Digest: 68gRl3njc50oYxPdUW85EttId1Q=
+
+Name: system/media/audio/ui/LowBattery.ogg
+SHA1-Digest: qk4dO9ewwClkIblpVgaksnL+Y90=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_dualsim.png
+SHA1-Digest: jc8OTsaQ/2AnrkooESK8uBHiFPo=
+
+Name: system/media/audio/notifications/S_Charming_bell.ogg
+SHA1-Digest: 0vuzba0ugKKR7TcImDPLcXWMfnA=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_schpwron.png
+SHA1-Digest: O8EoXiqctb1spKTqngr8LHhX6Ro=
+
+Name: system/media/audio/notifications/S_Pure_Bell.ogg
+SHA1-Digest: qf10tuGgy2cYJzto+x2KqtNLpb0=
+
+Name: system/media/audio/notifications/S_Harmonics.ogg
+SHA1-Digest: NZWdR/75uu57ATy00UoAnPvifjg=
+
+Name: system/media/audio/ringtones/Pyxis.ogg
+SHA1-Digest: XYP3SUGwKltm/TDx1fwFxzJlZcM=
+
+Name: MOD/Gallery2.apk/res/mipmap-hdpi/ic_launcher_gallery.png
+SHA1-Digest: AuVZgy8RDdARQ4BjeTLJM5203E8=
+
+Name: MOD/Mms.apk/res/mipmap-hdpi/ic_launcher_smsmms.png
+SHA1-Digest: RU+BmkQvMOfuPUU0d/a03m4ISxk=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_dock.png
+SHA1-Digest: UbXKBb9tRVPVCmyL8WFivd7A9wM=
+
+Name: system/media/audio/ui/KeypressDelete.ogg
+SHA1-Digest: bZEM7p2jzlwy0AICXAOSF3LdqGw=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_profiles.png
+SHA1-Digest: 04uxshcROXt4ggHgU1x2uMZTIDM=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_display.png
+SHA1-Digest: NTgjKi9cvGoVaCzzHd9FlUkCAjw=
+
+Name: system/media/audio/notifications/Flowers.ogg
+SHA1-Digest: xA1Ty9kotY17uLOaRcS7FpaILNg=
+
+Name: system/media/audio/notifications/Chopsticks.ogg
+SHA1-Digest: AoP37ZTXkFo/V7/1ArIc6SKnkvk=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_data_usage.png
+SHA1-Digest: SsLyXHk0hw2k0fzGH/3WLD+j3bw=
+
+Name: system/media/audio/notifications/S_Buubles.ogg
+SHA1-Digest: c9ZD/14PbSThSxboimQmd/4DQ/g=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_sound.png
+SHA1-Digest: 0qwKbPryn7q4oI0OLXojrGbW9FY=
+
+Name: MOD/Music.apk/res/drawable-hdpi/app_music.png
+SHA1-Digest: xx/Yjf2tVoCrkXNNPk4rPj0gAMw=
+
+Name: system/media/audio/ringtones/CASSIOPEIA.ogg
+SHA1-Digest: vuFProyqWqAbZh2ptUKS7CSY0+w=
+
+Name: system/media/audio/ringtones/Pegasus.ogg
+SHA1-Digest: Te5wXbDVuVD5ekjg0ppI7TVQRPU=
+
+Name: system/media/audio/alarms/Good_Morning.ogg
+SHA1-Digest: iUTrs+OQjmyaWhmlb+hwrU5aqEg=
+
+Name: system/app/Launcher2.apk
+SHA1-Digest: bLAqlGGKgx/bC5iX4PoQ0oCzexI=
+
+Name: system/media/audio/ui/camera_click.ogg
+SHA1-Digest: jet4ZWI3QDsJT8T3YoNr9gH1NUc=
+
+Name: system/media/audio/ringtones/Rigel.ogg
+SHA1-Digest: KjlxPClAB3GqRgxQdD8lYFyuky4=
+
+Name: system/media/audio/ringtones/S_Happy_synth.ogg
+SHA1-Digest: 7jFHWvXMBwcHwHqJP9w3LMhhgxU=
+
+Name: system/media/audio/notifications/01_Sherbet.ogg
+SHA1-Digest: p1l+nkua+GcHio0Yv1Pyb3iY3nU=
+
+Name: system/media/audio/alarms/Piezo.ogg
+SHA1-Digest: g3cpGjY0MTtw9ovD9pNMrz6MVxQ=
+
+Name: system/media/audio/ringtones/URSAMINOR.ogg
+SHA1-Digest: X4V30SMDi3k6vH08Sw157Z7mNmk=
+
+Name: system/media/audio/notifications/Cheeper.ogg
+SHA1-Digest: MCABoHKq0hiM4UY0RglNKr52H2c=
+
+Name: system/media/audio/notifications/S_Haze.ogg
+SHA1-Digest: LPbSXxnDqWRN9vlftvoiurOFzR0=
+
+Name: system/media/audio/ringtones/S_Single_tone.ogg
+SHA1-Digest: PVDtkj51LxEXJO2pdeUiTdAMqBM=
+
+Name: MOD/CalendarProvider.apk/res/drawable-hdpi/app_icon.png
+SHA1-Digest: VCXiCeixyb4/9jgKxbj2tgphK2k=
+
+Name: system/media/audio/ui/Undock.ogg
+SHA1-Digest: 6oAdqdqiX5XZktYY3/svgw5ugpM=
+
+Name: system/media/audio/ringtones/S_Down_Hill.ogg
+SHA1-Digest: fJKN2xlYdw7/scDiAGkmy+KA23U=
+
+Name: system/media/audio/alarms/Ringing.ogg
+SHA1-Digest: wbxG+e3+64OxXpHRCe2PbXxiFqw=
+
+Name: system/media/audio/ringtones/S_Crossingwalk.ogg
+SHA1-Digest: cb6jRNaohriZbk9HaulG/EOEtYQ=
+
+Name: system/media/audio/ringtones/S_Emotive_sensation.ogg
+SHA1-Digest: 1gXbKBhzYgFsyq5JJf8BDlqMuVU=
+
+Name: MOD/StkSelection.apk/res/drawable-hdpi/ic_launcher_sim_toolkit.p
+ ng
+SHA1-Digest: LUQibAYuVqorhsDnxLTQFDTegbI=
+
+Name: system/media/audio/ringtones/S_Pure_tone.ogg
+SHA1-Digest: glbhkl65L5ImCAUT8kwTgk9y4DQ=
+
+Name: system/media/audio/ui/Lock.ogg
+SHA1-Digest: DnCrErMB3wGGwGMEJVGQOY1p7lk=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_launcher_settings.png
+SHA1-Digest: pKtM9YyN+jyF/+AD32BBOyyL9hU=
+
+Name: system/media/audio/ringtones/S_Wine_Bottle.ogg
+SHA1-Digest: sGFyI8OKYITgjeXe7kbuYAQgbI8=
+
+Name: system/media/audio/ui/Effect_Tick.ogg
+SHA1-Digest: +XfZVEpWBKjR+dAfcRuRyjjmftQ=
+
+Name: MOD/mod.sh
+SHA1-Digest: AmQkMODC66bnSEHuJKRTzvdfBlY=
+
+Name: MOD/Browser.apk/res/mipmap-hdpi/ic_launcher_browser.png
+SHA1-Digest: 4Lo/+MU7O5UKCAl6xST4s+Wq3qo=
+
+Name: system/media/audio/ringtones/S_School.ogg
+SHA1-Digest: UAz/iVqowGRIBidlvAgL2M9gp7w=
+
+Name: system/media/audio/alarms/Ticktac.ogg
+SHA1-Digest: pNKLX2jpqD2CrEA9eM1LVTdn4zo=
+
+Name: system/media/audio/ringtones/S_Polaris.ogg
+SHA1-Digest: N6pdSJXu5zgoxdvRJHIc0JbSEVY=
+
+Name: MOD/Contacts.apk/res/drawable-hdpi/ic_launcher_contacts.png
+SHA1-Digest: w45GgOGvZdej2yVKB4CRkU/IFuU=
+
+Name: system/media/audio/notifications/S_Postman.ogg
+SHA1-Digest: 6xXb4sq0hwMI8ptwnbqx6v7O/74=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_schpwronoff.png
+SHA1-Digest: QvKKCBVC+kpaqyYEqWROnP8j450=
+
+Name: system/media/audio/alarms/Buzzer.ogg
+SHA1-Digest: Qxk67M9MxKqoKOlHluzVxON8+/o=
+
+Name: MOD/Contacts.apk/res/drawable-hdpi/ic_launcher_phone.png
+SHA1-Digest: jXStJXthlMUdi9ZI8duB0Itwcok=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_backup.png
+SHA1-Digest: /BVQVmk31yNuSEoHQjDO6wxLeoE=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_location.png
+SHA1-Digest: YCQMfqv0SoNI+az+XG9YrZYZ2pI=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: sj/n9mYBTBsdHqKMyGzhULHGUFA=
+
+Name: system/media/audio/ui/Unlock.ogg
+SHA1-Digest: qWeBqL9ndZk49Zmohx5LMa5Hnmw=
+
+Name: system/media/audio/notifications/Moonbeam.ogg
+SHA1-Digest: 4eNef967OevjjdjSmghaw8nKoW4=
+
+Name: system/media/audio/notifications/S_Glittering_Light.ogg
+SHA1-Digest: zEqBFrfvRZpu36SlT+rCf/gJcFA=
+
+Name: system/media/audio/alarms/Chirp_Chrip.ogg.ogg
+SHA1-Digest: GeRtpdZ4s8Mtmep/laUD46pO7KQ=
+
+Name: system/media/audio/ui/KeypressStandard.ogg
+SHA1-Digest: WFdYi785ujyp6JwqtdsHziO5hjU=
+
+Name: system/media/audio/ringtones/More_polite.ogg
+SHA1-Digest: CyjN2iwfcNeBHu5v+mMaIl3Mr5Q=
+
+Name: MOD/Settings.apk/res/drawable-hdpi/ic_settings_bluetooth2.png
+SHA1-Digest: ma6mPdrpUmfHgNvomdXcw8z3EGs=
+
+Name: res/drawable-hdpi/icon_halloweennight.jpg
+SHA1-Digest: 5ZZ3zEaFrlRbqWtXWwxRRkebuok=
+
+Name: res/drawable-hdpi/icon_lotus.jpg
+SHA1-Digest: EAWm/ODe/pKFb/I6pU+9e74Jync=
+
+Name: res/drawable-hdpi/wall_star.png
+SHA1-Digest: +jtcyFgY9LfLtgnPXUQiGjAAbEM=
+
+Name: assets/textures/bg.png
+SHA1-Digest: nqF7s61vOP4N59KTEHyygw+7lSs=
+
+Name: res/drawable-hdpi/icon_android2.png
+SHA1-Digest: ysEw4AxM1rLi3UugpwzdOZCsjJ4=
+
+Name: res/drawable-hdpi/icon_nexusmatrix.jpg
+SHA1-Digest: 2Eve/eR05S29ssCcG98TjkRMj28=
+
+Name: res/drawable-hdpi/icon_galaxy.jpg
+SHA1-Digest: CF2/4MbEJ0mLR22Xfmq9e+u+wyw=
+
+Name: res/drawable-hdpi/icon_feather.jpg
+SHA1-Digest: +XdKU1YlaiU0GfMjJi3sy++aKLw=
+
+Name: res/drawable-hdpi/icon_nexuswave.jpg
+SHA1-Digest: BpFx/PnlSPJIdoVCVES+jsB8Kf4=
+
+Name: assets/textures/background.jpg
+SHA1-Digest: Nu/Sdx6FH8P9e9Y0bV+q/fu0+bQ=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: 50LEtO6ZIXJA4x1PbQmfNuDxBvg=
+
+Name: res/drawable-hdpi/icon_lavender.jpg
+SHA1-Digest: hFhbCk0wXBpvtCVxVVh/teI+hSg=
+
+Name: jsr305_annotations/v0_r47/V0_r47.gwt.xml
+SHA1-Digest: /f34xYwskAvrKqRB+jFPzJ8rPJg=
+
+Name: assets/sounds/water_drop.ogg
+SHA1-Digest: vSnDfx5CwN4MXP3SbjlLONzvp90=
+
+Name: lib/armeabi/libandroidgl20.so
+SHA1-Digest: T3Re9lHBRQ177kCvIUyqP94xG6k=
+
+Name: com/appia/config/AppiaConfig.properties
+SHA1-Digest: E6pSuB7HwPy1xE995aD02WUIhZs=
+
+Name: res/drawable-hdpi/icon_s4.jpg
+SHA1-Digest: tVTZk6WPQ/+L6P9O8gkdULqdO+k=
+
+Name: res/drawable-hdpi/icon_glitter.jpg
+SHA1-Digest: Y7OphxNb+YMsyLbM25F7AxefI2M=
+
+Name: res/drawable/thumbnail.png
+SHA1-Digest: 7BIFF/u9fC2kzdGKMfycIn9Cah0=
+
+Name: assets/textures/background2.jpg
+SHA1-Digest: OHHqeaEYW5u6dVm/Dqy5fZGY57Q=
+
+Name: jsr305_annotations/Jsr305_annotations.gwt.xml
+SHA1-Digest: UBXHoAGmseBGDwjR6/MFHfcIK7g=
+
+Name: res/xml/settings.xml
+SHA1-Digest: yxhfYW3SwRz71G/nGd1NLC9Dbag=
+
+Name: res/drawable-hdpi/icon_shakecrack.jpg
+SHA1-Digest: OrSGEn1oYz/bCOUu4GJB4oVe2ew=
+
+Name: com/badlogic/gdx/utils/arial-15.png
+SHA1-Digest: cNIREcVEJ4mg/sQa8fTMElWnwwo=
+
+Name: res/layout/preference_ad2.xml
+SHA1-Digest: OTXFe53dWCWpqihQOMi5KxGsxYo=
+
+Name: res/drawable-hdpi/icon_glitter3d.jpg
+SHA1-Digest: WKnk0miCwRagBIKpx7J7OZqLmCk=
+
+Name: res/drawable-hdpi/icon_iphonedrop.jpg
+SHA1-Digest: eN44bp4J5BcqpA2HF0HZiNg2Oyc=
+
+Name: lib/armeabi/libgdx.so
+SHA1-Digest: fnn+4YGxRPQ7n/hH5dMvrsLEI1s=
+
+Name: res/drawable-hdpi/icon_shakescary.jpg
+SHA1-Digest: xV6qyG3FcIX6GGpVi2ab6VHNLP4=
+
+Name: res/drawable-hdpi/icon_heart.jpg
+SHA1-Digest: H9wZV5tRzPMvlfeMLZDarD/1zFk=
+
+Name: res/layout/popup_ad.xml
+SHA1-Digest: bypdm/AryKhYy08gzOhG/YqxvjE=
+
+Name: res/drawable-hdpi/icon_snow.jpg
+SHA1-Digest: 3Lfg4pRH2yTuSAyegoVWBv/XXdE=
+
+Name: res/drawable-hdpi/icon_snowflake.jpg
+SHA1-Digest: rXfHh5ixIjPjKPJm06ah3Nxdc5o=
+
+Name: res/drawable-hdpi/icon_waterdrop.jpg
+SHA1-Digest: xDRQWinh9/apZAVtRbmEebTj2Z4=
+
+Name: res/drawable-hdpi/icon_feather2.jpg
+SHA1-Digest: Q7uOGLnCJbZCNdxiP00ovOWDxCA=
+
+Name: res/drawable-hdpi/icon_android.png
+SHA1-Digest: Bj24rKKWuz0ss1tIz+bUVhfGpMs=
+
+Name: com/badlogic/gdx/utils/arial-15.fnt
+SHA1-Digest: lJMEBO6KXBGAB7uP2j2Odqe+ijQ=
+
+Name: res/layout/preference.xml
+SHA1-Digest: pd5ynyn2VXepDR86Y72Prx19FCs=
+
+Name: res/drawable-hdpi/icon_jellybean.jpg
+SHA1-Digest: Wf0sscMi9ZCJrsadIDasnbJxRr0=
+
+Name: res/drawable-hdpi/icon_drop.jpg
+SHA1-Digest: SIXw0D7KRaUPyj0lf/K/ocltIFg=
+
+Name: res/drawable-hdpi/icon_halloweenpumpkin.jpg
+SHA1-Digest: 5P7ZZN7+vuSjjUkKH72c3FkB2rI=
+
+Name: res/drawable-hdpi/icon_shakefireworks.jpg
+SHA1-Digest: 7jKTr69Qmyk5h1PQRvUqChT8cZs=
+
+Name: res/layout/preference_ad.xml
+SHA1-Digest: McQCQKa3/5eaBMLzdNz58UPOHTw=
+
+Name: res/drawable-hdpi/icon_raindrop.jpg
+SHA1-Digest: +xp4cpwqdeD1ctXbkZ7eDiAoFlE=
+
+Name: resources.arsc
+SHA1-Digest: FybK2X6Ebwfz82VIqIV92HoYnVg=
+
+Name: res/layout/wall_activity_item.xml
+SHA1-Digest: 1J70ttgXTIJ3A5b11g+3k4B6aJw=
+
+Name: res/drawable-hdpi/icon_maple.jpg
+SHA1-Digest: YZNdCKox1FvF0z1qdQ/W/5bn0iw=
+
+Name: res/layout/widget.xml
+SHA1-Digest: xUQfLvdZ+nd9i/Zsy685uNnm9lM=
+
+Name: res/drawable-hdpi/icon_crackedscreen.jpg
+SHA1-Digest: o2LJuxgl1NtxH3LsLN+0kIy0jD4=
+
+Name: AndroidManifest.xml
+SHA1-Digest: GMwT7uqg7rCRdJTs7bs9QtAwqaM=
+
+Name: res/drawable-hdpi/icon_xperiaz.jpg
+SHA1-Digest: 7LbWgsjmLFxZqQZPlHLoM6phWi8=
+
+Name: res/drawable-hdpi/icon_s4leaf.jpg
+SHA1-Digest: 9ydurl2bVkOMZ3Mmcsv1YruBQ7o=
+
+Name: res/layout/wall_item.xml
+SHA1-Digest: O1cL/Y3mYbGCP0iHd1QpfASiIbo=
+
+Name: res/layout/wall_activity.xml
+SHA1-Digest: OKswrqUc5tVi4wmSBZFejANC6v4=
+
+Name: res/layout/popup.xml
+SHA1-Digest: TlieNheeZ++GzoJ3N1F5sH3WB7c=
+
+Name: com/esotericsoftware/TableLayout.gwt.xml
+SHA1-Digest: Fdk2jjlL+qoZnN5vP80Q2WzEqQI=
+
+Name: com/badlogic/gdx.gwt.xml
+SHA1-Digest: fz4oQlo2LUQmA0sudT7IC3KMiLM=
+
+Name: res/drawable-hdpi/icon_dandelion.jpg
+SHA1-Digest: B7LvMeZM0+693UVsaTEC5r7o6Uc=
+
+Name: res/drawable-hdpi/icon_jbcube.jpg
+SHA1-Digest: RmEIsdn+V9JOI50GERhF2ES8Fg0=
+
+Name: classes.dex
+SHA1-Digest: YH1siISYNTMt872Uq/AOpoTXg3g=
+
+Name: res/drawable-hdpi/icon_rose.jpg
+SHA1-Digest: on0bKF4IN01lH1kpQmT5+pFuWcc=
+
+Name: lib/armeabi-v7a/libandroidgl20.so
+SHA1-Digest: T3Re9lHBRQ177kCvIUyqP94xG6k=
+
+Name: res/xml/wallpaper.xml
+SHA1-Digest: 7RHnZ+xvxUHoitXa0RJ42wMBYN4=
+
+Name: res/drawable-hdpi/icon_heart3d.jpg
+SHA1-Digest: +3yZfBl1NLkWIXN9qJRBE8z2MLs=
+
+Name: res/drawable-hdpi/icon_sunflower.jpg
+SHA1-Digest: l7TdmkI+6gO9tL6Iqnuei4uOz98=
+
+Name: res/layout/applauncher.xml
+SHA1-Digest: jbZhv4UrsJmUmbiNTLBoHMpx/+o=
+
+Name: res/drawable-hdpi/icon_nexusdot.jpg
+SHA1-Digest: PrP9NFcmXtHcPAeSId92A/cCZPI=
+
+Name: res/drawable-hdpi/icon_christmas.jpg
+SHA1-Digest: Kwm0A3q3PlCrszopLDfDCSQeLU8=
+
+Name: res/drawable-hdpi/icon_ics.jpg
+SHA1-Digest: BDoAd3Fh4hVtH2ARdKXshciXwZI=
+
+Name: res/drawable-hdpi/icon_lookout.jpg
+SHA1-Digest: rrhChyJXSF8gWqPbdCuk/A7u5gs=
+
+Name: lib/armeabi-v7a/libgdx.so
+SHA1-Digest: wcrM9f0yxMVHK8af5gWDGwMxhlQ=
+
+Name: res/layout/wall.xml
+SHA1-Digest: zLp0XzAed7k3wjsiQrp9pY/ev4o=
+
+Name: res/drawable-hdpi/icon_dna.jpg
+SHA1-Digest: NTfoGeNqs+9hM0mPXkbwsFvQFxc=
+
+Name: res/xml/widget.xml
+SHA1-Digest: Yxz27LgUlnIxaIjPDvRqe988K28=
+
+Name: assets/textures/item.png
+SHA1-Digest: Pyf5bn8Ets5E1rTUiRB7c3+5Lsc=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: 3o/PCslKDmM/OtN3g42yPF/6hks=
+
+Name: res/drawable-hdpi/icon_iphone5wave.jpg
+SHA1-Digest: 6OCAg7LEnkr0M+kFBwZ8Yp2RkGE=
+
