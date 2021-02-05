@@ -3,7 +3,11 @@ ro.translation.build=AnGgIt86
 ro.compiler.repo=AnGgIt86
 ro.nfs.maintainer=AnGgIt86
 ro.nfs.romname=Xiaomi.eu 21.1.13 HM5 (Rosy)
+<<<<<<< HEAD
 ro.nfs.version=210120
+=======
+ro.nfs.version=210109
+>>>>>>> FETCH_HEAD
 ro.nfs.manifest=https://raw.githubusercontent.com/AnGgIt86/MIUI-NUSANTARA/main/santoni/NFS.xml
 ro.nfs.build.date=30 January 2021
 ro.nfs.build.version.release=10

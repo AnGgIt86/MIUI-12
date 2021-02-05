@@ -1,5 +1,9 @@
 #!/sbin/sh
+<<<<<<< HEAD
 #Prebuild Common MIUI 12 NFS Projects
+=======
+#Prebuild Common MIUI 12
+>>>>>>> FETCH_HEAD
 
 #Add to product build.prop
 /sbin/busybox echo "ro.sys.sdcardfs=0" >> /system/system/product/build.prop
@@ -15,6 +19,7 @@
 /sbin/busybox echo "ro.lmk.kill_timeout_ms=100" >> /system/system/product/build.prop
 /sbin/busybox echo "ro.lmk.use_minfree_levels=true" >> /system/system/product/build.prop
 /sbin/busybox echo "ro.lmk.log_stats=true" >> /system/system/product/build.prop
+<<<<<<< HEAD
 /sbin/busybox echo "" >> /system/system/product/build.prop
 /sbin/busybox echo "# Enable backlight notify to displayfeature" >> /system/system/product/build.prop
 /sbin/busybox echo "ro.xiaomi.bl.notify=0" >> /system/system/product/build.prop
@@ -83,5 +88,7 @@
 /sbin/busybox echo "" >> /system/system/product/build.prop
 /sbin/busybox echo "import /system/AnGgIt86/nfs.prop" >> /system/system/product/build.prop
 /sbin/busybox echo "" >> /system/system/product/build.prop
+=======
+>>>>>>> FETCH_HEAD
 
 exit 0;
