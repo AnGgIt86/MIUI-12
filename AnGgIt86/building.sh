@@ -18,7 +18,6 @@ rm -rf /system/system/lib/vndk-29/android.hardware.nfc*
 rm -rf /system/system/lib/libmorpho*
 rm -rf /system/system/lib64/vndk-29/android.hardware.nfc*
 rm -rf /system/system/lib64/libmorpho*
-rm -rf /system/system/media/wallpaper/wallpaper_group/*
 rm -rf /system/system/priv-app/DiracAudioControlService
 rm -rf /system/system/priv-app/MiuiScanner
 rm -rf /system/system/priv-app/MiuiCamera
