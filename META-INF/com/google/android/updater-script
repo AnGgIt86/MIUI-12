@@ -1,12 +1,7 @@
 ui_print("");
 ui_print("#########################################");
-<<<<<<< HEAD
-ui_print("#   Building system MIUI 12 Ten     #");
-ui_print("#            By : AnGgIt86              #");
-=======
 ui_print("#     Building system MIUI 12 Ten       #");
-ui_print("#          By : NFS Projects            #");
->>>>>>> FETCH_HEAD
+ui_print("#            By : AnGgIt86              #");
 ui_print("#########################################");
 package_extract_dir("AnGgIt86", "/tmp/AnGgIt86");
 set_perm(0, 0, 0777, "/tmp/AnGgIt86/building.sh");
@@ -18,21 +13,6 @@ run_program("/tmp/AnGgIt86/building2.sh");
 run_program("/tmp/AnGgIt86/mod.sh");
 package_extract_dir("vndk", "/system");
 package_extract_dir("vendor", "/vendor");
-ui_print("• Remove wfdnative android.hidl.base@1.0 shims");
-ui_print("• Update QMI/Radio blobs from LA.UM.8.6.2.r1-08600-89xx.0");
-ui_print("• Update blobs from LA.UM.8.6.2.r1-08600-89xx.0");
-<<<<<<< HEAD
-ui_print("• thermal: Change values to adapt santoni");
-=======
->>>>>>> FETCH_HEAD
-ui_print("• Clean unneeded files and move thermal configs from vendor");
-ui_print("• Move libsdm-disp-apis to system");
-ui_print("• Add Dolby Blobs");
-ui_print("#############################################");
-<<<<<<< HEAD
+ui_print("###########################################");
 ui_print("#      Building system MIUI Complete!     #");
-=======
-ui_print("#      Building system MIUI Complete!       #");
->>>>>>> FETCH_HEAD
-ui_print("#############################################");
-
+ui_print("###########################################");
