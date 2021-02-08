@@ -1,9 +1,5 @@
 #!/sbin/sh
-<<<<<<< HEAD
 #Prebuild Common MIUI 12 NFS Projects
-=======
-#Prebuild Common MIUI 12 Q
->>>>>>> FETCH_HEAD
 
 # Remove dir
 rm -rf /system/res/images/charger/*
@@ -22,10 +18,7 @@ rm -rf /system/system/lib/vndk-29/android.hardware.nfc*
 rm -rf /system/system/lib/libmorpho*
 rm -rf /system/system/lib64/vndk-29/android.hardware.nfc*
 rm -rf /system/system/lib64/libmorpho*
-<<<<<<< HEAD
 rm -rf /system/system/media/wallpaper/wallpaper_group/*
-=======
->>>>>>> FETCH_HEAD
 rm -rf /system/system/priv-app/DiracAudioControlService
 rm -rf /system/system/priv-app/MiuiScanner
 rm -rf /system/system/priv-app/MiuiCamera
@@ -46,13 +39,4 @@ rm -rf /data/system/package_cache
 
 # Media
 cp -fpr /vendor/etc/media_profiles_vendor.xml /system/system/etc/media_profiles_msm8953_v1.xml
-<<<<<<< HEAD
-=======
-cp -fpr /vendor/etc/media_profiles_vendor.xml /system/system/etc/media_profiles_msm8940_v1.xml
-cp -fpr /vendor/etc/media_profiles_vendor.xml /system/system/etc/media_profiles_msm8937_v1.xml
-cp -fpr /vendor/etc/media_profiles_vendor.xml /system/system/etc/media_profiles_msm8917_v1.xml
-
-# Ota By NFS Projects
-/sbin/busybox echo "" >> /system/system/build.prop;
-/sbin/busybox echo "import /system/AnGgIt86/nfs.prop" >> /system/system/build.prop;
->>>>>>> FETCH_HEAD
+cp -fpr /vendor/etc/camera/dualcamera.png /system/system/etc/dualcamera.png
